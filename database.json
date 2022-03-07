@@ -124,6 +124,17 @@
       "value": "",
       "rating": "",
       "id": 4
+    },
+    {
+      "album": "Disintegration",
+      "artist": "The Cure",
+      "genreId": 14,
+      "value": "",
+      "releaseDate": "",
+      "catalogNumber": " FIXH 14",
+      "albumCover": "",
+      "rating": "",
+      "id": 5
     }
   ],
   "crate": [
