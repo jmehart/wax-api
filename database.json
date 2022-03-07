@@ -116,6 +116,14 @@
       "catalogNumber": "MUTE189",
       "albumCover": "https://i.discogs.com/4cNxq0opPejnhgYKgOHJyMTWYj9fuiEpXUE9grAfoyU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE0/NzQtMTIwMTIwNzM3/OC5qcGVn.jpeg",
       "rating": 4.56
+    },
+    {
+      "album": "Electric Warrior",
+      "artist": "T. Rex",
+      "genreId": 14,
+      "value": "",
+      "rating": "",
+      "id": 4
     }
   ],
   "crate": [
