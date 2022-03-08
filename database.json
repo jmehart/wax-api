@@ -135,6 +135,17 @@
       "albumCover": "",
       "rating": "",
       "id": 5
+    },
+    {
+      "album": "Tiddlywinks",
+      "artist": "NRBQ",
+      "genreId": 14,
+      "value": "",
+      "releaseDate": "",
+      "catalogNumber": "3048",
+      "albumCover": "",
+      "rating": "",
+      "id": 6
     }
   ],
   "crate": [
