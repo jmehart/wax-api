@@ -1,172 +1,204 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Jaimie Hart",
-            "email": "hartjme@gmail.com"
-        },
-        {
-            "name": "Judy Rose",
-            "email": "rosenhearts@yahoo.com",
-            "id": 2
-        },
-        {
-            "name": "Rick Hart",
-            "email": "rick@gmail.com",
-            "id": 3
-        },
-        {
-            "name": "Jolie Hart",
-            "email": "jhart@gmail.com",
-            "id": 4
-        }
-    ],
-    "genres": [
-        {
-            "id": 1,
-            "genre": "Blues"
-        },
-        {
-            "id": 2,
-            "genre": "Brass & Military"
-        },
-        {
-            "id": 3,
-            "genre": "Children's"
-        },
-        {
-            "id": 4,
-            "genre": "Classical"
-        },
-        {
-            "id": 5,
-            "genre": "Electronic"
-        },
-        {
-            "id": 6,
-            "genre": "Folk, Wolrd, & Country"
-        },
-        {
-            "id": 7,
-            "genre": "Funk/Soul"
-        },
-        {
-            "id": 8,
-            "genre": "Hip Hop"
-        },
-        {
-            "id": 9,
-            "genre": "Jazz"
-        },
-        {
-            "id": 10,
-            "genre": "Latin"
-        },
-        {
-            "id": 11,
-            "genre": "Non-Music"
-        },
-        {
-            "id": 12,
-            "genre": "Pop"
-        },
-        {
-            "id": 13,
-            "genre": "Reggae"
-        },
-        {
-            "id": 14,
-            "genre": "Rock"
-        },
-        {
-            "id": 15,
-            "genre": "Stage & Screen"
-        }
-    ],
-    "records": [
-        {
-            "id": 1,
-            "album": "Then Play On",
-            "artist": "Fleetwood Mac",
-            "genreId": 14,
-            "value": "$11.84 - $197.37",
-            "releaseDate": "Sep 1969",
-            "catalogNumber": "RSLP 9000",
-            "albumCover": "https://i.discogs.com/sHSzAbIDFD1YRI2HBg-i8Ns29Gmug41cpotSXa3XABE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIx/NDUtMTI5OTA3NTE4/NS5qcGVn.jpeg",
-            "rating": 4.34
-        },
-        {
-            "id": 2,
-            "album": "Betty Davis",
-            "artist": "Betty Davis",
-            "genreId": 7,
-            "value": "$14.98 - $218.18",
-            "releaseDate": "1973",
-            "catalogNumber": "JSS-5",
-            "albumCover": "https://i.discogs.com/OCnpyhNykOiFADBr5AER42cFly2Vk86rd5HvgIp97rI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDMw/NC0xMzUyODU0NTYy/LTUyMDAuanBlZw.jpeg",
-            "rating": 4.41
-        },
-        {
-            "id": 3,
-            "album": "Henry Lee",
-            "artist": "Nick Cave And The Bad Seeds & PJ Harvey",
-            "genreId": 14,
-            "value": "$21.82 - $54.55",
-            "releaseDate": "Feb 26, 1996",
-            "catalogNumber": "MUTE189",
-            "albumCover": "https://i.discogs.com/4cNxq0opPejnhgYKgOHJyMTWYj9fuiEpXUE9grAfoyU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE0/NzQtMTIwMTIwNzM3/OC5qcGVn.jpeg",
-            "rating": 4.56
-        },
-        {
-            "album": "Disintegration",
-            "artist": "The Cure",
-            "genreId": 14,
-            "value": "",
-            "releaseDate": "",
-            "catalogNumber": " FIXH 14",
-            "albumCover": "",
-            "rating": "",
-            "id": 5
-        },
-        {
-            "album": "Tiddlywinks",
-            "artist": "NRBQ",
-            "genreId": 14,
-            "value": "",
-            "releaseDate": "",
-            "catalogNumber": "3048",
-            "albumCover": "https://i.discogs.com/KEDUY1KYjsPDzht_f9n7I8zAJBNmaR6l2h_0qvOg-MM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM0/MDAtMTQxOTcwNjAx/Ni0yNTc3LmpwZWc.jpeg",
-            "rating": "",
-            "id": 6
-        }
-    ],
-    "crate": [
-        {
-            "id": 1,
-            "userId": 1,
-            "recordId": 3
-        },
-        {
-            "id": 2,
-            "userId": 2,
-            "recordId": 1
-        },
-        {
-            "id": 3,
-            "userId": 1,
-            "recordId": 6
-        }
-    ],
-    "collection": [
-        {
-            "id": 1,
-            "userId": 1,
-            "recordId": 1
-        },
-        {
-            "id": 2,
-            "userId": 1,
-            "recordId": 2
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Jaimie Hart",
+      "email": "hartjme@gmail.com"
+    },
+    {
+      "name": "Judy Rose",
+      "email": "rosenhearts@yahoo.com",
+      "id": 2
+    },
+    {
+      "name": "Rick Hart",
+      "email": "rick@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Jolie Hart",
+      "email": "jhart@gmail.com",
+      "id": 4
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "genre": "Blues"
+    },
+    {
+      "id": 2,
+      "genre": "Brass & Military"
+    },
+    {
+      "id": 3,
+      "genre": "Children's"
+    },
+    {
+      "id": 4,
+      "genre": "Classical"
+    },
+    {
+      "id": 5,
+      "genre": "Electronic"
+    },
+    {
+      "id": 6,
+      "genre": "Folk, Wolrd, & Country"
+    },
+    {
+      "id": 7,
+      "genre": "Funk/Soul"
+    },
+    {
+      "id": 8,
+      "genre": "Hip Hop"
+    },
+    {
+      "id": 9,
+      "genre": "Jazz"
+    },
+    {
+      "id": 10,
+      "genre": "Latin"
+    },
+    {
+      "id": 11,
+      "genre": "Non-Music"
+    },
+    {
+      "id": 12,
+      "genre": "Pop"
+    },
+    {
+      "id": 13,
+      "genre": "Reggae"
+    },
+    {
+      "id": 14,
+      "genre": "Rock"
+    },
+    {
+      "id": 15,
+      "genre": "Stage & Screen"
+    }
+  ],
+  "records": [
+    {
+      "id": 1,
+      "album": "Then Play On",
+      "artist": "Fleetwood Mac",
+      "genreId": 14,
+      "value": "$11.84 - $197.37",
+      "releaseDate": "Sep 1969",
+      "catalogNumber": "RSLP 9000",
+      "albumCover": "https://i.discogs.com/sHSzAbIDFD1YRI2HBg-i8Ns29Gmug41cpotSXa3XABE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIx/NDUtMTI5OTA3NTE4/NS5qcGVn.jpeg",
+      "rating": 4.34
+    },
+    {
+      "id": 2,
+      "album": "Betty Davis",
+      "artist": "Betty Davis",
+      "genreId": 7,
+      "value": "$14.98 - $218.18",
+      "releaseDate": "1973",
+      "catalogNumber": "JSS-5",
+      "albumCover": "https://i.discogs.com/OCnpyhNykOiFADBr5AER42cFly2Vk86rd5HvgIp97rI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDMw/NC0xMzUyODU0NTYy/LTUyMDAuanBlZw.jpeg",
+      "rating": 4.41
+    },
+    {
+      "id": 3,
+      "album": "Henry Lee",
+      "artist": "Nick Cave And The Bad Seeds & PJ Harvey",
+      "genreId": 14,
+      "value": "$21.82 - $54.55",
+      "releaseDate": "Feb 26, 1996",
+      "catalogNumber": "MUTE189",
+      "albumCover": "https://i.discogs.com/4cNxq0opPejnhgYKgOHJyMTWYj9fuiEpXUE9grAfoyU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE0/NzQtMTIwMTIwNzM3/OC5qcGVn.jpeg",
+      "rating": 4.56
+    },
+    {
+      "album": "Disintegration",
+      "artist": "The Cure",
+      "genreId": 14,
+      "value": "",
+      "releaseDate": "",
+      "catalogNumber": " FIXH 14",
+      "albumCover": "https://i.discogs.com/1jYALr8Hr8_7NT7WfoqvJ3budKuuhX_NxhcU89TaZiM/rs:fit/g:sm/q:90/h:595/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU4/My0xMTcyNDI2MTgx/LmpwZWc.jpeg",
+      "rating": "",
+      "id": 4
+    },
+    {
+      "album": "Tiddlywinks",
+      "artist": "NRBQ",
+      "genreId": 14,
+      "value": "",
+      "releaseDate": "",
+      "catalogNumber": "3048",
+      "albumCover": "https://i.discogs.com/KEDUY1KYjsPDzht_f9n7I8zAJBNmaR6l2h_0qvOg-MM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM0/MDAtMTQxOTcwNjAx/Ni0yNTc3LmpwZWc.jpeg",
+      "rating": "",
+      "id": 5
+    },
+    {
+      "album": "Prince",
+      "artist": "Prince",
+      "genreId": 7,
+      "value": "",
+      "releaseDate": "1979",
+      "catalogNumber": "BSK 3366",
+      "albumCover": "https://i.discogs.com/J4O8Mo0mJYGlI1JzqW21VKtgwK43Nmtph_s2tjrevRI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTM5/Mi0xNDI1ODY1NjQz/LTI5NjAuanBlZw.jpeg",
+      "rating": "",
+      "id": 6
+    },
+    {
+      "album": "Purple Rain",
+      "artist": "Prince",
+      "genreId": 12,
+      "value": "",
+      "releaseDate": "Jun 25, 1984",
+      "catalogNumber": "25110-1",
+      "albumCover": "https://i.discogs.com/mSIjl1G4gAdx2xw9iLG1fBmNPLz_5GNo0bLqeWyDMh4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDAy/MS0xMzM1NDAwMjg5/LmpwZWc.jpeg",
+      "rating": "",
+      "id": 7
+    }
+  ],
+  "crate": [
+    {
+      "id": 1,
+      "userId": 1,
+      "recordId": 3
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "recordId": 1
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "recordId": 4
+    }
+  ],
+  "collection": [
+    {
+      "id": 1,
+      "userId": 1,
+      "recordId": 1
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "recordId": 2
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "recordId": 5
+    },
+    {
+      "userId": 1,
+      "recordId": 7,
+      "id": 5
+    }
+  ]
 }
