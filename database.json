@@ -160,6 +160,17 @@
       "albumCover": "https://i.discogs.com/mSIjl1G4gAdx2xw9iLG1fBmNPLz_5GNo0bLqeWyDMh4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDAy/MS0xMzM1NDAwMjg5/LmpwZWc.jpeg",
       "rating": "",
       "id": 7
+    },
+    {
+      "album": "Repeater",
+      "artist": "Fugazi",
+      "genreId": 14,
+      "value": "",
+      "releaseDate": "Mar 1, 1990",
+      "catalogNumber": "DISCHORD 44",
+      "albumCover": "https://i.discogs.com/cxhvB_jjEnJq3dBoxHplLXSbkwZXX3hnOR9hLwt7VIc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzUx/NS0xNDQ1MTY1MjQw/LTkzNTQuanBlZw.jpeg",
+      "rating": "",
+      "id": 8
     }
   ],
   "crate": [
@@ -174,9 +185,14 @@
       "recordId": 1
     },
     {
-      "id": 4,
       "userId": 1,
-      "recordId": 4
+      "recordId": 5,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "recordId": 7,
+      "id": 4
     }
   ],
   "collection": [
@@ -191,19 +207,19 @@
       "recordId": 2
     },
     {
-      "id": 3,
-      "userId": 2,
-      "recordId": 5
-    },
-    {
       "userId": 1,
-      "recordId": 7,
+      "recordId": 6,
       "id": 5
     },
     {
       "userId": 1,
-      "recordId": 6,
+      "recordId": 4,
       "id": 6
+    },
+    {
+      "userId": 1,
+      "recordId": 8,
+      "id": 7
     }
   ]
 }
