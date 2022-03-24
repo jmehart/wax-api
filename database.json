@@ -93,7 +93,8 @@
       "releaseDate": "Sep 1969",
       "catalogNumber": "RSLP 9000",
       "albumCover": "https://i.discogs.com/sHSzAbIDFD1YRI2HBg-i8Ns29Gmug41cpotSXa3XABE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIx/NDUtMTI5OTA3NTE4/NS5qcGVn.jpeg",
-      "rating": 4.34
+      "rating": 4.34,
+      "format": "LP"
     },
     {
       "id": 2,
@@ -104,7 +105,8 @@
       "releaseDate": "1973",
       "catalogNumber": "JSS-5",
       "albumCover": "https://i.discogs.com/OCnpyhNykOiFADBr5AER42cFly2Vk86rd5HvgIp97rI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDMw/NC0xMzUyODU0NTYy/LTUyMDAuanBlZw.jpeg",
-      "rating": 4.41
+      "rating": 4.41,
+      "format": "LP"
     },
     {
       "id": 3,
@@ -115,29 +117,32 @@
       "releaseDate": "Feb 26, 1996",
       "catalogNumber": "MUTE189",
       "albumCover": "https://i.discogs.com/4cNxq0opPejnhgYKgOHJyMTWYj9fuiEpXUE9grAfoyU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE0/NzQtMTIwMTIwNzM3/OC5qcGVn.jpeg",
-      "rating": 4.56
+      "rating": 4.56,
+      "format": "7in Single"
     },
     {
       "album": "Disintegration",
       "artist": "The Cure",
       "genreId": 14,
       "value": 25,
-      "releaseDate": "",
+      "releaseDate": "May 2, 1989",
       "catalogNumber": " FIXH 14",
       "albumCover": "https://i.discogs.com/1jYALr8Hr8_7NT7WfoqvJ3budKuuhX_NxhcU89TaZiM/rs:fit/g:sm/q:90/h:595/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU4/My0xMTcyNDI2MTgx/LmpwZWc.jpeg",
-      "rating": "",
-      "id": 4
+      "rating": 5,
+      "id": 4,
+      "format": "LP"
     },
     {
       "album": "Tiddlywinks",
       "artist": "NRBQ",
       "genreId": 14,
       "value": 10,
-      "releaseDate": "",
+      "releaseDate": "1980",
       "catalogNumber": "3048",
       "albumCover": "https://i.discogs.com/KEDUY1KYjsPDzht_f9n7I8zAJBNmaR6l2h_0qvOg-MM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM0/MDAtMTQxOTcwNjAx/Ni0yNTc3LmpwZWc.jpeg",
-      "rating": "",
-      "id": 5
+      "rating": 4.18,
+      "id": 5,
+      "format": "LP"
     },
     {
       "album": "Prince",
@@ -147,8 +152,9 @@
       "releaseDate": "1979",
       "catalogNumber": "BSK 3366",
       "albumCover": "https://i.discogs.com/J4O8Mo0mJYGlI1JzqW21VKtgwK43Nmtph_s2tjrevRI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTM5/Mi0xNDI1ODY1NjQz/LTI5NjAuanBlZw.jpeg",
-      "rating": "",
-      "id": 6
+      "rating": 4.28,
+      "id": 6,
+      "format": "LP"
     },
     {
       "album": "Purple Rain",
@@ -158,8 +164,9 @@
       "releaseDate": "Jun 25, 1984",
       "catalogNumber": "25110-1",
       "albumCover": "https://i.discogs.com/mSIjl1G4gAdx2xw9iLG1fBmNPLz_5GNo0bLqeWyDMh4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDAy/MS0xMzM1NDAwMjg5/LmpwZWc.jpeg",
-      "rating": "",
-      "id": 7
+      "rating": 4.44,
+      "id": 7,
+      "format": "LP"
     },
     {
       "album": "Repeater",
@@ -170,7 +177,8 @@
       "catalogNumber": "DISCHORD 44",
       "albumCover": "https://i.discogs.com/idRaK6Q3OPvBvY51AK3DG6AiiSs_Wq1J-1tbh6I7yRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzUx/NS0xNDQ1MTY1MjQw/LTkzNTQuanBlZw.jpeg",
       "rating": 4.45,
-      "id": 8
+      "id": 8,
+      "format": "LP"
     },
     {
       "album": "Bohannon",
@@ -181,7 +189,8 @@
       "catalogNumber": "DK 76917",
       "albumCover": "https://i.discogs.com/EBffxW_BfX8KNQDHojupHqpI4WoQ61N1DJnYbN_zUXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTg1/NS0xNjIzMzIyMjgz/LTMxMzkuanBlZw.jpeg",
       "rating": 4.04,
-      "id": 9
+      "id": 9,
+      "format": "LP"
     },
     {
       "album": "Electric Warrior",
@@ -192,7 +201,8 @@
       "catalogNumber": "RS 6466",
       "albumCover": "https://i.discogs.com/bl95RPtfUbHcdboKVOT1GhukZfdJiJKfCZ2oyicgP7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzk0/OC0xMzI3MTAwNzI4/LmpwZWc.jpeg",
       "rating": 4.51,
-      "id": 10
+      "id": 10,
+      "format": "LP"
     },
     {
       "album": "Darklands",
@@ -203,7 +213,8 @@
       "catalogNumber": "BYN11",
       "albumCover": "https://i.discogs.com/mGE0wQP-LAWlDx7CngBBCsQy3rjqSfny2y8T8PvN5r4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjEw/Ny0xNTI4NjE5MTI5/LTc4MzcuanBlZw.jpeg",
       "rating": 4.29,
-      "id": 11
+      "id": 11,
+      "format": "LP"
     },
     {
       "album": "Remain In Light",
@@ -214,7 +225,8 @@
       "catalogNumber": "SRK 6095",
       "albumCover": "https://i.discogs.com/zDMEFMBLb9j8gqtksqWBkib83fxR20okzOTesKtUCQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ5/MS0xNTQxOTQ1NDcy/LTQ3OTUuanBlZw.jpeg",
       "rating": 4.58,
-      "id": 12
+      "id": 12,
+      "format": "LP"
     },
     {
       "album": "I Wish My Brother George Was Here",
@@ -225,7 +237,8 @@
       "catalogNumber": "61133-1",
       "albumCover": "https://i.discogs.com/8edbjYzj1_rWMXTGq2iOtPz8LgJtUNqLFLZfRHqk5ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODY2/OC0xNTM1NjYzMDky/LTgxMDUuanBlZw.jpeg",
       "rating": 4.27,
-      "id": 13
+      "id": 13,
+      "format": "LP"
     },
     {
       "album": "The Otis Redding Dictionary Of Soul - Complete & Unbelievable",
@@ -236,7 +249,8 @@
       "catalogNumber": "S 415",
       "albumCover": "https://i.discogs.com/JgJshi7_wdh9Eb3wEL3LSg7RQ9nKllrZ-eVlddUmIzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc1/OTYtMTU2MjQxNzk4/My0yMDQ2LmpwZWc.jpeg",
       "rating": 4.16,
-      "id": 14
+      "id": 14,
+      "format": "LP"
     },
     {
       "album": "To Bring You My Love",
@@ -247,7 +261,8 @@
       "catalogNumber": "0896473",
       "albumCover": "https://i.discogs.com/2RpgbGFPOFbs5m6bm5dNDyIkODUXpQhcNZw5fqr1PaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk1/MzYzLTE1OTk4MTA4/NTAtNTM5Ny5wbmc.jpeg",
       "rating": 4.67,
-      "id": 15
+      "id": 15,
+      "format": "LP"
     },
     {
       "album": "Black Messiah",
@@ -258,7 +273,8 @@
       "catalogNumber": "88875-05655-1",
       "albumCover": "https://i.discogs.com/kT23YLq6Eu4GylmtIYY1xBbdu9sXwtK2FAZ0Qe3Z03E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjU3/OTUtMTQzMjkzOTYw/MS0zODM3LmpwZWc.jpeg",
       "rating": 4.66,
-      "id": 16
+      "id": 16,
+      "format": "LP"
     },
     {
       "album": "At Last!",
@@ -269,7 +285,8 @@
       "catalogNumber": "LP 4003",
       "albumCover": "https://i.discogs.com/GIzyepgvjMSfhReexQpAk-b1Q3m1wZSfjBkcPuxaulI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODEy/NTEtMTU4OTIyOTYw/MC00NTY0LnBuZw.jpeg",
       "rating": 4.34,
-      "id": 17
+      "id": 17,
+      "format": "LP"
     },
     {
       "album": "Sheer Heart Attack",
@@ -280,7 +297,8 @@
       "catalogNumber": "7ES 1026",
       "albumCover": "https://i.discogs.com/pAejZPtOGB4_pukV_yZRznlhELxsUn-yB7vyfBFRvrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Njg1/MDEtMTU1NzQ5MzI0/MC04MjA5LmpwZWc.jpeg",
       "rating": 4.23,
-      "id": 18
+      "id": 18,
+      "format": "LP"
     },
     {
       "album": "Jailbreak",
@@ -291,7 +309,8 @@
       "catalogNumber": "SRM-1-1081",
       "albumCover": "https://i.discogs.com/qZ-I8vGib5o0n0eNz1cDl0JA3BE18VUFaFHqckjyprI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDA5/MDMtMTM2NTI4NTE0/Ny0yMjM5LmpwZWc.jpeg",
       "rating": 4.45,
-      "id": 19
+      "id": 19,
+      "format": "LP"
     },
     {
       "album": "She Hangs Brightly",
@@ -302,7 +321,8 @@
       "catalogNumber": "ROUGH 158",
       "albumCover": "https://i.discogs.com/03IJUnS7YNZOJO3IVMgSvhOVmpHv9NvzYUO2G7Ov1_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDQy/Ni0xMTI5NjU1NzM4/LmpwZWc.jpeg",
       "rating": 4.58,
-      "id": 20
+      "id": 20,
+      "format": "LP"
     },
     {
       "album": "Let It Be",
@@ -313,7 +333,60 @@
       "catalogNumber": "TTR-8441",
       "albumCover": "https://i.discogs.com/fNwDuxRn6k7lxSiACu0FYwjJzDMtRmz1FDcQcaodzGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTg4/OC0xMzAzNTEwNzkz/LmpwZWc.jpeg",
       "rating": 4.62,
-      "id": 21
+      "id": 21,
+      "format": "LP"
+    },
+    {
+      "album": "Album",
+      "artist": "Joan Jett And The Blackhearts",
+      "genreId": 14,
+      "value": "11.90",
+      "releaseDate": "1983",
+      "catalogNumber": "MCA-5437",
+      "albumCover": "https://i.discogs.com/V2JGHebRQSCaVE0SNaryrps2SvOOREW8puT6lvOTOCc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk2/MjQtMTI5MjAzMzY1/NC5qcGVn.jpeg",
+      "rating": "3.5",
+      "id": 22,
+      "format": "LP"
+    },
+    {
+      "album": "Fleetwood Mac",
+      "artist": "Fleetwood Mac",
+      "genreId": 14,
+      "value": 5.49,
+      "releaseDate": "1975",
+      "catalogNumber": "MS 2225",
+      "albumCover": "https://i.discogs.com/HUXKfh4GAEatgrX6OePuMvjI4w9OLq7rCg_Mg82Uhi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTUy/ODM2LTE2NDQxNDk2/NDEtODM4OS5qcGVn.jpeg",
+      "rating": 4.14,
+      "id": 23,
+      "format": "LP"
+    },
+    {
+      "album": "The Dock Of The Bay",
+      "artist": "Otis Redding",
+      "genreId": 7,
+      "value": 3,
+      "releaseDate": "1968",
+      "catalogNumber": "VOLT S-419",
+      "albumCover": "https://i.discogs.com/LQYhRRJj5UzZMQp-GdcS2EpPhC5UHAUZanlAZuqjrfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjQz/OTEtMTM2NTQ1NDAz/NC0xMTk3LmpwZWc.jpeg",
+      "rating": 4.46,
+      "format": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "id": 24
+    },
+    {
+      "album": "London Calling",
+      "artist": "Clash, The",
+      "genreId": 14,
+      "value": 16.48,
+      "releaseDate": "1979",
+      "catalogNumber": "88478",
+      "albumCover": "https://i.discogs.com/sQGHR7bsKRSWXXd3kY6Wvy1fbvhcID77QYcizw9hs10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODY5/OC0xNDA3MTU4ODA5/LTI2MDguanBlZw.jpeg",
+      "rating": 4.52,
+      "format": "LP/ Album/ Stereo",
+      "id": 25
     }
   ],
   "crate": [
@@ -428,6 +501,26 @@
       "userId": 1,
       "recordId": 21,
       "id": 14
+    },
+    {
+      "userId": 1,
+      "recordId": 22,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "recordId": 23,
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "recordId": 24,
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "recordId": 25,
+      "id": 18
     }
   ]
 }
