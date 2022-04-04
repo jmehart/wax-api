@@ -369,11 +369,7 @@
       "catalogNumber": "VOLT S-419",
       "albumCover": "https://i.discogs.com/LQYhRRJj5UzZMQp-GdcS2EpPhC5UHAUZanlAZuqjrfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjQz/OTEtMTM2NTQ1NDAz/NC0xMTk3LmpwZWc.jpeg",
       "rating": 4.46,
-      "format": [
-        "LP",
-        "Album",
-        "Stereo"
-      ],
+      "format": "LP / Album / Stereo",
       "id": 24
     },
     {
@@ -387,6 +383,54 @@
       "rating": 4.52,
       "format": "LP/ Album/ Stereo",
       "id": 25
+    },
+    {
+      "album": "One Way Ticket",
+      "artist": "The Nerves",
+      "genreId": 14,
+      "value": "14.99",
+      "releaseDate": "2008",
+      "catalogNumber": "ALIVE0090-1",
+      "albumCover": "https://i.discogs.com/DSax6_mACDErWf6beomKVTwmvwFNlKzdiu7yolSdTm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mzgw/MDktMTQ4MTgwNTQx/NC00MDUwLmpwZWc.jpeg",
+      "rating": "4.52",
+      "format": "LP Compilation",
+      "id": 26
+    },
+    {
+      "album": "Parallel Lines",
+      "artist": "Blondie",
+      "genreId": 14,
+      "value": 5,
+      "releaseDate": "1978",
+      "catalogNumber": "6307 632",
+      "albumCover": "https://i.discogs.com/igO2v7M292HME8Ak2Q1XtZjomiDfkeTv2qmNxhcxR7s/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDYw/MjYtMTQ0MDUyODE1/Ny03MzMyLmpwZWc.jpeg",
+      "rating": 4.4,
+      "format": "LP",
+      "id": 27
+    },
+    {
+      "album": "Mothership Connection",
+      "artist": "Parliament",
+      "genreId": 7,
+      "value": 31.87,
+      "releaseDate": "15 Dec 1975",
+      "catalogNumber": "NBLP 7022",
+      "albumCover": "https://i.discogs.com/HGdOvQGsUl7iVyUQwqHXNZ3QskzqMf7tnXTscbI1LFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDA3/MjgtMTMxMTExOTM1/My5qcGVn.jpeg",
+      "rating": 4.48,
+      "format": "LP/ Album",
+      "id": 28
+    },
+    {
+      "album": "In The Flat Field",
+      "artist": "Bauhaus",
+      "genreId": 14,
+      "value": 19.78,
+      "releaseDate": "26 Oct 2018",
+      "catalogNumber": "CAD 2901 LPX",
+      "albumCover": "https://i.discogs.com/wD7qalcN3MKHoUgnquC3PFqO5NCUQaRC3ROh9zPjvp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc0/MTgxLTE1Mzk4MDQw/NTktOTE0Mi5qcGVn.jpeg",
+      "rating": 4.41,
+      "format": "LP/ Album/ Reissue/ Remastered",
+      "id": 29
     }
   ],
   "crate": [
@@ -407,11 +451,6 @@
     },
     {
       "userId": 1,
-      "recordId": 11,
-      "id": 5
-    },
-    {
-      "userId": 1,
       "recordId": 13,
       "id": 6
     },
@@ -422,13 +461,18 @@
     },
     {
       "userId": 1,
-      "recordId": 17,
-      "id": 8
+      "recordId": 20,
+      "id": 9
     },
     {
       "userId": 1,
-      "recordId": 20,
-      "id": 9
+      "recordId": 28,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "recordId": 11,
+      "id": 11
     }
   ],
   "collection": [
@@ -521,6 +565,26 @@
       "userId": 1,
       "recordId": 25,
       "id": 18
+    },
+    {
+      "userId": 1,
+      "recordId": 26,
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "recordId": 27,
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "recordId": 17,
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "recordId": 29,
+      "id": 22
     }
   ]
 }
